@@ -1,0 +1,55 @@
+
+ 
+ .bg-mdark {
+    background-color: rgb(26, 28, 29);
+}
+
+
+a {
+    color: rgb(225, 72, 34);
+
+}
+
+a:hover {
+    color: rgb(221, 102, 72);
+    text-decoration: underline;
+}
+
+.code {
+    border-radius: 8px;
+}
+
+.source-code {
+    background-color:rgb(52,58,64) ;
+    padding: 5px;
+    border-radius: 9px;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 16px;
+
+}
+.cmnt{
+    color: rgba(38, 107, 47, 0.787);
+    font-size: 15px;
+}
+.keyword{
+    color: rgb(204, 153, 205)
+
+}
+
+.function{
+    color: rgb(240, 141, 74);
+}
+.string{
+color: rgb(135, 202, 160);
+}
+
+.var{
+color: rgb(248, 197, 85);;
+
+}
+.oplog{
+color :rgb(120, 211, 210);
+}
+.ml-10 {
+    margin-left: 20rem !important;
+}
