@@ -50,6 +50,6 @@ Go to `C:\Windows\System32\drivers\etc` and open hosts file ,paste below code
 
 5.Restart Apache
 
+[download](LaravelCollective.rar){: .btn}
 
-[![download](https://github.com/Abdelmadjidsmail/LaravelCollective-doc/contributors/master/LaravelCollective.rar)
 
