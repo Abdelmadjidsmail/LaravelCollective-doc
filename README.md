@@ -10,7 +10,8 @@ Please feel free to contribute to the docs. If you wish to issue a Pull-Request 
 
 ### create virtual hosts for LARAVELCOLLECTIVE
 
-1. download the folder  in your  **xampp\htdocs**  name it   laravelcollective [laravelcollective](LaravelCollective.rar)
+1. download the folder  in your  **xampp\htdocs**  name it   laravelcollective 
+   [download](https://github.com/Abdelmadjidsmail/LaravelCollective-doc/contributors/master/LaravelCollective.rar)
 
 2. Open `httpd-vhosts.conf` file under `xampp\apache\conf\extra` 
 
